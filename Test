@@ -1,0 +1,7 @@
+echo "# C0ntraFl0w" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Permatafx/C0ntraFl0w.git
+git push -u origin main
